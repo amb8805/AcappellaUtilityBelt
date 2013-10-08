@@ -1,0 +1,29 @@
+ToDo:
+Features:
+	Pitch Pipe
+	Syllable Reference
+	Pitch pipe can save pitches for songs
+	users? (future)
+	arrange songs in setlists
+	Mixing?? 
+	Vocal Health Information/ Reference Page
+	metronome
+
+Design
+
+
+Hosting:
+Heroku
+RIT
+
+Technologies:
+HTML5
+CSS3
+Javascript
+Underscore
+Jquery
+Require?
+Sound Gen Library???
+Database? POSTGRESQL heroku
+Bootstrap
+
